@@ -1,6 +1,6 @@
 # Hello, I'm Radoslav Ivanov, but please, call me Rad
-##You can always find me on LinkedIn!
-<a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<p>You can always find me on LinkedIn!</p>
+<p><a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a></p>
 
 Hey! I'm an aspiring Cybersecurity enthusiast with a strong interest in technology, networking, and information security.
 I'm constantly learning, exploring new tools, and improving my skills. I enjoy understanding how systems work, finding vulnerabilities, and learning how to protect them.
