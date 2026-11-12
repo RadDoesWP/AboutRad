@@ -44,14 +44,12 @@ This GitHub is where I share my projects, experiments, and everything I learn al
   <img src="https://img.shields.io/badge/MITRE%20Caldera-6B4FBB?style=for-the-badge&logo=mitre&logoColor=white">
   
 </div>
-## Certifications
-<div>
+### Certifications
 <div>
   <p>✅ <a href="https://assets.tryhackme.com/certification-certificate/6acc00dca93edc93f3a6b3ca.pdf">TryHackMe SEC1</a></p>
   <p>❌ Google Cybersecurity Certificate</p>
   <p>❌ CompTIA Security+</p>
   <p>❌ TryHackMe SOC L1 Labs</p>
-</div>
 </div>
 
 ## Projects
